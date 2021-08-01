@@ -6,9 +6,9 @@ const Sequelize = require('sequelize');
 const sequelize = process.env.JAWSDB_URL
   ? new Sequelize(process.env.JAWSDB_URL)
   : new Sequelize(
-    process.env.DB_NAME, 
     process.env.DB_USER, 
     process.env.DB_PW,
+    process.env.DB_NAME
     {
       host: 'localhost',
       //Dialect could be, if set up: mariadb, postgres, mssql, sqlite
