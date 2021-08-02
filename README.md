@@ -7,7 +7,7 @@ Given some starter code, we build out a backend for an e-commerce database while
 ## Demo Video
 
 Should you want to view the demo video that I built to demonstrate the functionality, please visit here:
- https://macktrain.github.io/sandlot-week13/demonstration.mp4
+https://macktrain.github.io/sandlot-week13/demonstration.mp4
 
 
 ##  Acceptance Criteria Met
